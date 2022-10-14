@@ -2,3 +2,7 @@ table, th, td {
     border-collapse: collapse;
     border: solid 2px black;
 }
+
+td {
+    text-align: center;
+}
